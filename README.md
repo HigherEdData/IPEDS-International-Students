@@ -4,6 +4,8 @@
 
 Write your summary here
 
-**Data**
-- https://nces.ed.gov/ipeds/datacenter/data/HD2022.zip 
-- 
+**Data Dictionary**
+- https://nces.ed.gov/ipeds/datacenter/data/HD2022_Dict.zip
+
+- https://nces.ed.gov/ipeds/datacenter/data/EF2022A_Dict.zip
+
