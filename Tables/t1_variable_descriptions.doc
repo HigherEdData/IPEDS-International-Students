@@ -1,0 +1,198 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\b\qc\line Table 1: Variable Descriptions }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2400
+\fs20 \pard\intbl \ql { name}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6400
+\fs20 \pard\intbl \ql { varlab}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { unitid}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {School Unique Identification Number}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { instnm}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Institution Name}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { obereg}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {BEA Regions}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { sector}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Sector of Institution}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { ugoffer}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Undergraduate Offering}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { groffer}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Graduate Offering}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { eftotlt}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Grand Total}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { eftotlm}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Grand Total Men}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { eftotlw}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Grand Total Women}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { efhispt}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Hispanic Total}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { efhispm}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Hispanic Men}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { efhispw}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Hispanic Women}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { efnralt}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {US Non-Resident Total}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { efnralm}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {US Non-Resident Men}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { efnralw}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {US Non-Resident Women}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { newengland}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {New England}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { mideast}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Mid East}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { greatlakes}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Great Lakes}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { plains}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Plains}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { southeast}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Southeast}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { southwest}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Southwest}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { rockymountains}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Rocky Mountains}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { farwest}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Far West}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { otherusjurisdictions}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Other US Jurisdictions}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { pctefhispt}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Hispanic Total Percent}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { pctefhispm}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Hispanic Men Percent}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { pctefhispw}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {Hispanic Women Percent}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { pctefnralt}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {US Non-Resident Total Percent}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { pctefnralm}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {US Non-Resident Men Percent}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2400
+\fs20 \pard\intbl \ql { pctefnralw}\cell
+\cellx6400
+\fs20 \pard\intbl \ql {US Non-Resident Women Percent}\cell
+\row}
+
+
+\writepositionforappend
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx6400 \cell
+\row}}}
